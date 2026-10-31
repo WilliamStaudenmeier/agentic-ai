@@ -219,7 +219,7 @@ function App() {
           <section className="principles">
             <div><FlaskConical size={19} /><strong>Reproducible</strong><span>Every scenario follows inspectable rules.</span></div>
             <div><Network size={19} /><strong>Collaborative</strong><span>Agents delegate through explicit handoffs.</span></div>
-            <div><ShieldCheck size={19} /><strong>Bounded</strong><span>No network calls. No generative AI.</span></div>
+            <div><ShieldCheck size={19} /><strong>Verified</strong><span>Every result passes a quality review.</span></div>
           </section>
         </main>
       </div>

@@ -1,6 +1,6 @@
 # Agentic AI
 
-An interactive, deterministic multi-agent simulation built with React, TypeScript, Vite, and Radix UI. It demonstrates planning, delegation, tool use, and review without calling an AI model or external API.
+An interactive multi-agent simulation built with React, TypeScript, Vite, and Radix UI. It demonstrates planning, delegation, tool use, and review through a transparent workflow.
 
 ## Development
 
